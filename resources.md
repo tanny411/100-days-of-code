@@ -2,6 +2,10 @@
 
 [The #100DaysOfCode Official Site](http://100daysofcode.com/)
 
+### Connect
+1. Connect with others on the platform of your choice from this list: www.100DaysOfCode.com/connect
+2. [here](https://join.slack.com/t/100xcode/shared_invite/enQtNzQwMzIwMzQxODc5LWQwMjU5Mjg0N2ZiMzIzYzJiZmE0YjNiYTBiZDBjNjlkNjBmMTYxNDBmNmE2YmE2YzY4NTgzY2Y5NDQxNWY5ZDM) is a invite link to the 100DaysOfCode Slack channel
+
 ### Articles
 1. [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4) freeCodeCamp Medium
 2. [Boot Up 2017 with the #100DaysOfCode Challenge](https://medium.freecodecamp.com/start-2017-with-the-100daysofcode-improved-and-updated-18ce604b237b) freeCodeCamp Medium 
@@ -35,7 +39,5 @@
 3. "Mastering JavaScript" by Ved Antani
 
 ## Contents
-* [Rules](rules.md)
 * [Log - click here to see my progress](log.md)
-* [FAQ](FAQ.md)
 * [Resources](resources.md)
