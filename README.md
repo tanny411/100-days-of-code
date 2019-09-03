@@ -22,7 +22,8 @@ September 1st, 2019.
 	- Codechef
 	- kickstart
 	- topcoder
-4. The time spent doing tutorials, online courses and reading books will NOT count towards this challenge.
+4. The time spent doing tutorial courses, online courses and reading books will NOT count towards this challenge. Articles and learning a specific topic followed by coding the same will count.
+5. 1 day miss in 2 weeks is allowed.
 
 ## Remember to:
 
