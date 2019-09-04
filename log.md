@@ -15,3 +15,13 @@ Need to improve median problem after reading this article. https://medium.com/@h
 - Debugging the same problems solution in O(log(m+n))
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/dc317323daf8829fc31d71ba26251f7ca8c68adb)
+
+### Day 3: September 4, 2019
+**Today's Progress**: 
+- Leetcode median-of-two-sorted-arrays in O(log(m+n)).
+- Leetcode longest-palindromic-substring
+- Overviews of manachers algorithm. (Learning)
+
+**Link to work:** 
+- [Commit Link](https://github.com/tanny411/Interview-prep/commit/c520c87128dd87acceb36b37720da44869760d99)
+- [Commit Link2](https://github.com/tanny411/Interview-prep/commit/2b858231885644911c40d945d63cff99e599f42f)
