@@ -3,7 +3,7 @@
 ### Day 1: September 1, 2019
 
 **Today's Progress**: Leetcode two codes done.
-Need to improve median problem after reading this article. https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46.
+Need to improve median problem after reading [this article](https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46).
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/561e29e20794c0e362f89cad3f751d8bcbfe7055)
 
@@ -11,7 +11,7 @@ Need to improve median problem after reading this article. https://medium.com/@h
 (1 day skipped)
 **Today's Progress**: 
 - Leetcode median-of-two-sorted-arrays in O(m+n).
-- Read https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46.
+- Read the [article](https://medium.com/@hazemu/finding-the-median-of-2-sorted-arrays-in-logarithmic-time-1d3f2ecbeb46) for this problem.
 - Debugging the same problems solution in O(log(m+n))
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/dc317323daf8829fc31d71ba26251f7ca8c68adb)
@@ -25,3 +25,16 @@ Need to improve median problem after reading this article. https://medium.com/@h
 **Link to work:** 
 - [Commit Link](https://github.com/tanny411/Interview-prep/commit/c520c87128dd87acceb36b37720da44869760d99)
 - [Commit Link2](https://github.com/tanny411/Interview-prep/commit/2b858231885644911c40d945d63cff99e599f42f)
+
+### Day 4: September 5, 2019
+**Today's Progress**: 
+- Learned manachers algorithm from [here](https://www.youtube.com/watch?v=nbTSfrEfo6M)
+- Solved from Leetcode
+	- longest palindromic substring with manachers algo. Quite an algorithm. Simple and amazing!
+	- zigzag conversion
+	- reverse integer*
+	- srtring to integer(atoi)*
+	- Palindromic Number*
+*these problems have interesting check for integer overflow, may need to revisit.
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/3b78dc76e1423239c59d55d2791f7ea771f40b30)
+- [Commit Link]()
