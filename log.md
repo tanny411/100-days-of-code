@@ -36,6 +36,7 @@ Need to improve median problem after reading [this article](https://medium.com/@
 	- srtring to integer(atoi)*
 	- Palindromic Number*
 *these problems have interesting check for integer overflow, may need to revisit.
+
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/3b78dc76e1423239c59d55d2791f7ea771f40b30)
 
 ### Day 5: September 6, 2019
@@ -44,4 +45,12 @@ Need to improve median problem after reading [this article](https://medium.com/@
 - solved remove-nth-node-from-end-of-list
 
 Need some good intermediate resource for pointer and linked list related topics. Feel free to share some.
+
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/5fc062426505cf357acec2194a4b999176a552be)
+
+### Day 6: September 7, 2019
+**Today's Progress**: 
+- solved merge-two-sorted-lists
+- solved merge-k-sorted-lists in 3 ways. Approach 2, 3, and 5.
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/beda749bbedc5087551db1d0630082de64cf00da)
