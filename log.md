@@ -54,3 +54,20 @@ Need some good intermediate resource for pointer and linked list related topics.
 - solved merge-k-sorted-lists in 3 ways. Approach 2, 3, and 5.
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/beda749bbedc5087551db1d0630082de64cf00da)
+
+### Day 7: September 8, 2019
+**Today's Progress**: 
+- solved Leetcode/swap-nodes-in-pairs
+- looked at some of other codes
+- solved recursive version of the same
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/cf4b78e336db2e9694b8045a5a9efd3af7dcf27f)
+
+
+### Day 8: September 9, 2019
+**Today's Progress**: 
+- solved Leetcode/reverse-nodes-in-k-group (recursion)
+- solved Leetcode/rotate-list (linear time)
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/27ee1c6a7e19f564e6842167b5b5da93c7b97e59)
+
