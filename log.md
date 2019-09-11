@@ -71,3 +71,17 @@ Need some good intermediate resource for pointer and linked list related topics.
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/27ee1c6a7e19f564e6842167b5b5da93c7b97e59)
 
+### Day 9: September 10, 2019
+**Today's Progress**: 
+Solved `FIBEASY` of the running contest `September Challenge 2019 Division 2`
+Tried the next problem `CHEFINSQ`.
+
+**Link to work:** No link for runnning contest. Will be updated after contest ends.
+
+### Day 10: September 11, 2019
+**Today's Progress**: 
+Solved `CHEFINSQ` from Codechef.
+Trying to solve `GDSUB` from the same contest.
+
+**Link to work:** No link for runnning contest. Will be updated after contest ends.
+
