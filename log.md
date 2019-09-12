@@ -85,3 +85,9 @@ Trying to solve `GDSUB` from the same contest.
 
 **Link to work:** No link for runnning contest. Will be updated after contest ends.
 
+### Day 11: September 12, 2019
+**Today's Progress**: 
+Solved `GDSUB` from Codechef. Had to rethink my solution to solve it.
+
+**Link to work:** No link for runnning contest. Will be updated after contest ends.
+
