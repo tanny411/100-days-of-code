@@ -91,3 +91,10 @@ Solved `GDSUB` from Codechef. Had to rethink my solution to solve it.
 
 **Link to work:** No link for runnning contest. Will be updated after contest ends.
 
+### Day 12: September 13, 2019
+**Today's Progress**: 
+Attempted `CHEFK1` from codechef. Wrong answer. Will continue tomorrow.
+Things have slowed down. Need to try other problems to get back on track!
+
+**Link to work:** No link for runnning contest. Will be updated after contest ends.
+
