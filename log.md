@@ -22,3 +22,12 @@ Leetcode:
 - Participated in Leetcode biweekly contest
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/578c18fb2960935439341a7fa288cfb576306c7c)
+
+### Day 3: September 23, 2019
+**Today's Progress**: 
+- Leetcode:
+	- count and say
+	- remove-element
+	- implement-strstr
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/ab87eacfa60c798a0b3d2926a01616acaea1fc81)
