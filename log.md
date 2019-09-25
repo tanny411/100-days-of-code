@@ -31,3 +31,12 @@ Leetcode:
 	- implement-strstr
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/ab87eacfa60c798a0b3d2926a01616acaea1fc81)
+
+### Day 4: September 24, 2019
+**Today's Progress**: 
+- Loj 1224 AC
+- Loj 1269 Attempted
+
+### Day 5: September 25, 2019
+**Today's Progress**: 
+- Leetcode 3sum problem Attempted
