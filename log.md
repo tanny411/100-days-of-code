@@ -40,3 +40,10 @@ Leetcode:
 ### Day 5: September 25, 2019
 **Today's Progress**: 
 - Leetcode 3sum problem Attempted
+
+### Day 6: September 26, 2019
+
+**Today's Progress**: 
+- Solved 3sum in Leetcode. Slightly improved. Needs more optimizations.
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/b20033ec5676ab82be1e7efd881e703554186c9e)
