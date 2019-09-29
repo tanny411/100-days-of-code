@@ -47,3 +47,33 @@ Leetcode:
 - Solved 3sum in Leetcode. Slightly improved. Needs more optimizations.
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/b20033ec5676ab82be1e7efd881e703554186c9e)
+
+### Day 7: September 27, 2019
+
+**Today's Progress**: 
+- 3sum in Leetcode optimized.
+- Solved loj 1269 (mainly debugging)
+
+### Day 8: September 28, 2019
+
+**Today's Progress**: 
+
+Leetcode Problems:
+- container-with-most-water
+- regular-expression-matching
+- search-insert-position
+- valid-parenthesis
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/ba5ba395719cbc3dacf323c4ed0dc48ca0f95be1)
+
+### Day 9: September 29, 2019
+
+**Today's Progress**: 
+
+Leetcode Problems:
+- 3sum-closest
+- 4sum
+- letter-combination-of-a-phone-number
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/1dd1a237a446ab8b5505f03f46c16dbba8042185)
+
