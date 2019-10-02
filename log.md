@@ -77,3 +77,19 @@ Leetcode Problems:
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/1dd1a237a446ab8b5505f03f46c16dbba8042185)
 
+### Day 10: September 30, 2019
+
+**Today's Progress**: 
+
+Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit finding, graph creation etc. Some optimizations and required on certain problems.
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Bioinformatics/commit/b0beda3addf944621030a4d411df776467ea375d)
+
+### Day 11: October 2, 2019
+
+**Today's Progress**: 
+
+- Studied Catalan number and its formula generation. Thorough study required. Its quite interesting!
+- Leetcode problem generate-parenthesis solved and optimized. Tried to reduce function passing overhead, didn't make any difference in this case.
+
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/5e70fbf7b8349dc7bcbc5a5e76213d3ea8df2763)
