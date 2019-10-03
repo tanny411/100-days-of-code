@@ -93,3 +93,11 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 - Leetcode problem generate-parenthesis solved and optimized. Tried to reduce function passing overhead, didn't make any difference in this case.
 
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/5e70fbf7b8349dc7bcbc5a5e76213d3ea8df2763)
+
+### Day 12: October 3, 2019
+
+**Today's Progress**: 
+
+- solved leetcode next permutation
+- attempted leetcode integer diviosn
+- started substring-with-concatenation-of-all-words
