@@ -101,3 +101,9 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 - solved leetcode next permutation
 - attempted leetcode integer diviosn
 - started substring-with-concatenation-of-all-words
+
+### Day 13: October 4, 2019
+
+**Today's Progress**: 
+
+- attempted substring-with-concatenation-of-all-words.
