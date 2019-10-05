@@ -107,3 +107,9 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 **Today's Progress**: 
 
 - attempted substring-with-concatenation-of-all-words.
+
+### Day 14: October 5, 2019
+
+**Today's Progress**:
+- solved search-in-rotated-sorted-array(some issues remain)
+- tried substring-with-concatenation-of-all-word
