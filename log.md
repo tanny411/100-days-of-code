@@ -113,3 +113,8 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 **Today's Progress**:
 - solved search-in-rotated-sorted-array(some issues remain)
 - tried substring-with-concatenation-of-all-word
+
+### Day 15: October 7, 2019
+
+**Today's Progress**:
+- Still trying substring-with-concatenation-of-all-word. Went from MLE to TLE. Now looking at solutions.
