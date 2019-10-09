@@ -118,3 +118,14 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 
 **Today's Progress**:
 - Still trying substring-with-concatenation-of-all-word. Went from MLE to TLE. Now looking at solutions.
+
+### Day 15: October 8, 2019
+
+**Today's Progress**:
+- Solved substring-with-concatenation-of-all-word.
+
+### Day 16: October 9, 2019
+
+**Today's Progress**:
+- Solved find-first-and-last-position-of-element-in-sorted-array in 3 different ways.
+**Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/48c598481a44b2f34c393fd2cede3a92f3e7b39a)
