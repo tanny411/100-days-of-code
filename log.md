@@ -129,3 +129,9 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 **Today's Progress**:
 - Solved find-first-and-last-position-of-element-in-sorted-array in 3 different ways.
 **Link to work:** [Commit Link](https://github.com/tanny411/Interview-prep/commit/48c598481a44b2f34c393fd2cede3a92f3e7b39a)
+
+### Day 17: October 10, 2019
+
+**Today's Progress**:
+- Solved Codechef problems: S10E, SAKTAN of october challenge
+- Attempted MARM. Working on it.
