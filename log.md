@@ -135,3 +135,18 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 **Today's Progress**:
 - Solved Codechef problems: S10E, SAKTAN of october challenge
 - Attempted MARM. Working on it.
+
+### Day 18: October 11, 2019
+**Today's Progress**:
+- Found cases for MARM. Tried to solve it further.
+
+### Day 19: October 14, 2019
+**Today's Progress**:
+- Looking into codechef october challenge solutions. solving the unsolved problems.
+
+### Day 20: October 16, 2019
+**Today's Progress**:
+Leetcode problems solved:
+	- maximum subarray
+	- maximum product subarray
+	- product of array except self
