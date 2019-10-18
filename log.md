@@ -147,6 +147,23 @@ Solved almost all problems from Rosalind Ch:1-3 including euler path/circuit fin
 ### Day 20: October 16, 2019
 **Today's Progress**:
 Leetcode problems solved:
-	- maximum subarray
-	- maximum product subarray
-	- product of array except self
+- maximum subarray
+- maximum product subarray
+- product of array except self
+
+### Day 21: October 17, 2019
+**Today's Progress**:
+Leetcode problem 
+- trapping rain water (solved in 2 pass)
+
+### Day 22: October 18, 2019
+**Today's Progress**:
+Leetcode problems:
+- binary-tree-level-order-traversal
+- maximum-depth-of-binary-tree
+- maximum-depth-of-n-ary-tree
+- minimum-depth-of-binary-tree
+- trapping-rain-water-ii (also improved version)
+- trapping rain water (in 1 pass)
+
+**Link to work**: [Commit Link](https://github.com/tanny411/Interview-prep/commit/7258d830ab98806c5913bfb2dcf60f4f5d501968)
