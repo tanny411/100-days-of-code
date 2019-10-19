@@ -167,3 +167,12 @@ Leetcode problems:
 - trapping rain water (in 1 pass)
 
 **Link to work**: [Commit Link](https://github.com/tanny411/Interview-prep/commit/7258d830ab98806c5913bfb2dcf60f4f5d501968)
+
+### Day 23: October 19, 2019
+**Today's Progress**:
+Leetcode problems:
+- binary-tree-zigzag-level-order-traversal
+- construct-binary-tree-from-preorder-and-inorder-traversal_n*n*logn
+- construct-binary-tree-from-preorder-and-inorder-traversal_n*n*logn_iterative
+- symmetric-tree
+
