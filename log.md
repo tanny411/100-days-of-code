@@ -176,3 +176,18 @@ Leetcode problems:
 - construct-binary-tree-from-preorder-and-inorder-traversal_n*n*logn_iterative
 - symmetric-tree
 
+### Day 24: October 20, 2019
+**Today's Progress**:
+Leetcode Problems:
+- construct-binary-tree-from-postorder-and-inorder-traversal in O(n)
+- construct-binary-tree-from-preorder-and-inorder-traversal in O(n)
+- group-anagrams
+- permutations
+- rotate-image
+- valid-sudoku
+
+### Day 25: October 22, 2019
+**Today's Progress**:
+Leetcode problems:
+- spiral matrix (in two ways)
+- powx-n
