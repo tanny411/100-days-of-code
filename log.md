@@ -191,3 +191,15 @@ Leetcode Problems:
 Leetcode problems:
 - spiral matrix (in two ways)
 - powx-n
+
+### Day 26: October 23, 2019
+**Today's Progress**:
+Leetcode problems: jump-game
+
+### Day 27: October 28, 2019
+**Today's Progress**:
+Leetcode problems:
+- interval-list-intersections
+- merge-intervals
+- merge-sorted-array
+- squares-of-a-sorted-array.
