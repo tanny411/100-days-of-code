@@ -211,3 +211,11 @@ Leetcode problems:
 - Set mismatch
 - first missing positive
 - find duplicate number
+
+## Day 29: October 30, 2019
+**Today's Progress**:
+Leetcode problems:
+- add-binary
+- multiply-strings
+- plus-one
+
