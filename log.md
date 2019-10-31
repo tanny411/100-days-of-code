@@ -219,3 +219,14 @@ Leetcode problems:
 - multiply-strings
 - plus-one
 
+## Day 30: October 31, 2019
+**Today's Progress**:
+Leetcode problems solved:
+- Unique Paths
+- Sqrt(x)
+- Climbing Stairs
+- Set Matrix Zeroes
+Attempted:
+- Minimum Window Substring (TLE)
+Will continue tomorrow
+
