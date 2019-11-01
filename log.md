@@ -230,3 +230,8 @@ Attempted:
 - Minimum Window Substring (TLE)
 Will continue tomorrow
 
+## Day 31: November 1, 2019
+**Today's Progress**:
+Leetcode problems solved
+- Minimum Window Substring. Solved and optimised.
+- Minimum Size Subarray.
