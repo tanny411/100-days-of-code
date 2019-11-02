@@ -235,3 +235,8 @@ Will continue tomorrow
 Leetcode problems solved
 - Minimum Window Substring. Solved and optimised.
 - Minimum Size Subarray.
+
+## Day 32: November 2, 2019
+**Today's Progress**:
+Leetcode problems solved
+- Longest Valid Parentheses
