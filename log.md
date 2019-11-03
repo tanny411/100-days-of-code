@@ -240,3 +240,9 @@ Leetcode problems solved
 **Today's Progress**:
 Leetcode problems solved
 - Longest Valid Parentheses
+
+## Day 33: November 3, 2019
+**Today's Progress**:
+Leetcode problems solved
+- edit distance (without and with space optimization)
+- longest consecutive sequence in 3 ways (dfs,union find and single loop)
