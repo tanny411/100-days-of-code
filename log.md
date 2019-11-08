@@ -246,3 +246,13 @@ Leetcode problems solved
 Leetcode problems solved
 - edit distance (without and with space optimization)
 - longest consecutive sequence in 3 ways (dfs,union find and single loop)
+
+## Day 34: November 4, 2019
+**Today's Progress**:
+- Contest in codechef WIPC '19 solved 3
+
+## Day 35: November 5, 2019
+**Today's Progress**:
+- Contest in codechef WIPC '19 solved 2 more
+
+
